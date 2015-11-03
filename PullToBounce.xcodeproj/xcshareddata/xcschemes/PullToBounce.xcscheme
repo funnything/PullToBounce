@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B04C9E571B7B35FD002D55E7"
-               BuildableName = "PullToBounce.app"
+               BlueprintIdentifier = "7D92E22A1BE8D43700C6A2BF"
+               BuildableName = "PullToBounce.framework"
                BlueprintName = "PullToBounce"
                ReferencedContainer = "container:PullToBounce.xcodeproj">
             </BuildableReference>
@@ -42,8 +42,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B04C9E571B7B35FD002D55E7"
-            BuildableName = "PullToBounce.app"
+            BlueprintIdentifier = "7D92E22A1BE8D43700C6A2BF"
+            BuildableName = "PullToBounce.framework"
             BlueprintName = "PullToBounce"
             ReferencedContainer = "container:PullToBounce.xcodeproj">
          </BuildableReference>
@@ -65,8 +65,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B04C9E571B7B35FD002D55E7"
-            BuildableName = "PullToBounce.app"
+            BlueprintIdentifier = "7D92E22A1BE8D43700C6A2BF"
+            BuildableName = "PullToBounce.framework"
             BlueprintName = "PullToBounce"
             ReferencedContainer = "container:PullToBounce.xcodeproj">
          </BuildableReference>
@@ -84,8 +84,8 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B04C9E571B7B35FD002D55E7"
-            BuildableName = "PullToBounce.app"
+            BlueprintIdentifier = "7D92E22A1BE8D43700C6A2BF"
+            BuildableName = "PullToBounce.framework"
             BlueprintName = "PullToBounce"
             ReferencedContainer = "container:PullToBounce.xcodeproj">
          </BuildableReference>
